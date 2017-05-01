@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_b957cd28762d85bdb629e352ef9484030971bbce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_a91f1e0b3af85b0e4f9519e97dc62b05319b2cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_64f9e69003844578758417445c292b4bd980c6c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_e213118730de3d8c6df253c54ae0508484e5da96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_5d5ec1eece8099362436d761a66830bb7960e487\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_e0b526662e4ca6f105851dae8938d483af185951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_7966f44a1f54faee96272af0c63beea104d8ce86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4f9501eaa864bb0d827509c935de03b674608e">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_02ed3b6c02527713a3da714fe9947e835ecf8d7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="153fcf2efcc8eedf52b89cf3fbb3c75855b1efb1">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b12578585db87aa7167c7fbc398aa0da2343e665\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_a49b83a36254ddd7e7bf6ecb33645d1c96b03fa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Shrey\AndroidStudio_workspace\copied\NestedFragments\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_54501500ef092602bdf62f09e6e28e2fca3fc039\classes.dex" />
+    </item>
+
+</items>
